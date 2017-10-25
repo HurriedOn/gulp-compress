@@ -27,10 +27,3 @@ gulpDome：
   * 压缩html（gulp-htmlmin）
   * 修改文件名（gulp-rename）
   * 更新提示（gulp-notify）
-  * js代码校验（gulp-jshint）
-  * 压缩js（gulp-uglify）
-  * 压缩图片（gulp-imagemin）
-  * 清除文件（del）
-  * 合并js文件（gulp-concat）
-  * 图片缓存，只有图片替换了才压缩（gulp-cache）
-  * 自动刷新页面（gulp-livereload）
