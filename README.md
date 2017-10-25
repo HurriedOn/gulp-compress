@@ -34,4 +34,10 @@ gulpDome：
  * 合并js文件（gulp-concat）
  * 图片缓存，只有图片替换了才压缩（gulp-cache）
  * 自动刷新页面（gulp-livereload）
-   
+ 
+执行：
+```bash
+npm install gulp-autoprefixer gulp-clean-css gulp-html gulp-rename gulp-notify jshint gulp-jshint gulp-jshint gulp-uglify gulp-imagemin del gulp-concat gulp-cache gulp-livereload --save-dev
+```
+
+生成package.json文件，执行：npm init
