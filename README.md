@@ -2,12 +2,17 @@
 gulp压缩html、css、js、image
 
 ## 项目结构：
-  * gulpDome
-    * dist
-      * images
-      * styles
-      * scripts
-      * htmls
+gulpDome：
+ * dist
+   * images
+   * styles
+   * scripts
+   * htmls
+ * src
+   * images
+   * styles
+   * scripts
+   * htmls
 
 ## 安装gulp：
    1、全局安装，执行：npm install gulp -g
